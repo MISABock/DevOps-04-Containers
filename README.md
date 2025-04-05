@@ -27,6 +27,8 @@ Ich habe ein docker-Compose-yaml für Postgres und Odoo erstellt. Siehe Repo. da
 
 Desweiteren Habe ich folgendes Repo gecloned: https://github.com/zhaw-iwi/DevOpsNodeWebApp und das Dockerfile zusammenbauen lassen. (![DockerFileBuild](images/DockerFileBuild.png))
 
+ich habe dannach noch meine eigene Applikation in einen Container gepackt und es dann auf dem Localhost9001 laufen gelassen.  (![OwnAppContainer](images/OwnAppContainer.png)) (![ownApp](images/ownApp.png))
+
 
 WordPressRunning
 ### Compose-File
